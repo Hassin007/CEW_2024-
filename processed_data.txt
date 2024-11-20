@@ -1,0 +1,594 @@
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 21.90 °C
+Min Temperature: 21.90 °C
+Max Temperature: 21.90 °C
+Humidity: 56.00 %
+Pressure: 1014.00 hPa
+Wind Speed: 1.54 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 25.90 °C
+Min Temperature: 25.90 °C
+Max Temperature: 25.90 °C
+Humidity: 41.00 %
+Pressure: 1017.00 hPa
+Wind Speed: 2.06 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 25.90 °C
+Min Temperature: 25.90 °C
+Max Temperature: 25.90 °C
+Humidity: 41.00 %
+Pressure: 1017.00 hPa
+Wind Speed: 2.06 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 25.90 °C
+Min Temperature: 25.90 °C
+Max Temperature: 25.90 °C
+Humidity: 41.00 %
+Pressure: 1017.00 hPa
+Wind Speed: 2.06 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 25.90 °C
+Min Temperature: 25.90 °C
+Max Temperature: 25.90 °C
+Humidity: 41.00 %
+Pressure: 1017.00 hPa
+Wind Speed: 2.06 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 25.90 °C
+Min Temperature: 25.90 °C
+Max Temperature: 25.90 °C
+Humidity: 41.00 %
+Pressure: 1017.00 hPa
+Wind Speed: 2.06 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 26.90 °C
+Min Temperature: 26.90 °C
+Max Temperature: 26.90 °C
+Humidity: 36.00 %
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 26.90 °C
+Min Temperature: 26.90 °C
+Max Temperature: 26.90 °C
+Humidity: 36.00 %
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 26.90 °C
+Min Temperature: 26.90 °C
+Max Temperature: 26.90 °C
+Humidity: 36.00 %
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 26.90 °C
+Min Temperature: 26.90 °C
+Max Temperature: 26.90 °C
+Humidity: 36.00 %
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Description: haze
+---------------------------------
+City: Karachi
+Temperature: 26.90 °C
+Min Temperature: 26.90 °C
+Max Temperature: 26.90 °C
+Humidity: 36.00 %
+Pressure: 1016.00 hPa
+Wind Speed: 2.06 m/s
+Description: haze
+---------------------------------
+City: London
+Temperature: 1.51 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1011.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.51 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1011.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.51 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1011.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.51 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1011.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.51 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1011.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.37 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.36 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.36 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.36 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.36 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.36 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------
+City: London
+Temperature: 1.36 °C
+Min Temperature: 0.16 °C
+Max Temperature: 2.36 °C
+Humidity: 84.00 %
+Pressure: 1012.00 hPa
+Wind Speed: 2.24 m/s
+Description: clear sky
+---------------------------------

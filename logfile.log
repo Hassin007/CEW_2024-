@@ -1,0 +1,234 @@
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+
+-------------------------------------------------------
+Average Temperature from last 5 readings: 1.37°C
+
+-------------------------------------------------------
+rm -f main.o weather_utils.o weather_app
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+
+-------------------------------------------------------
+Average Temperature from last 5 readings: 1.37°C
+
+-------------------------------------------------------
+rm -f main.o weather_utils.o weather_app
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.37 °C
+Description: clear sky
+Alert! Cold Outside: 1.37°C
+
+-------------------------------------------------------
+Average Temperature from last 5 readings: 1.37°C
+
+-------------------------------------------------------
+rm -f main.o weather_utils.o weather_app
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.36 °C
+Description: clear sky
+Alert! Cold Outside: 1.36°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.36 °C
+Description: clear sky
+Alert! Cold Outside: 1.36°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.36 °C
+Description: clear sky
+Alert! Cold Outside: 1.36°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.36 °C
+Description: clear sky
+Alert! Cold Outside: 1.36°C
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.36 °C
+Description: clear sky
+Alert! Cold Outside: 1.36°C
+
+-------------------------------------------------------
+Average Temperature from last 5 readings: 1.36°C
+
+-------------------------------------------------------
+rm -f main.o weather_utils.o weather_app
+rm -f main.o weather_utils.o weather_app
+gcc -Wall -Wextra -g -c main.c -o main.o
+gcc -Wall -Wextra -g -c weather_utils.c -o weather_utils.o
+gcc -Wall -Wextra -g -o weather_app main.o weather_utils.o -lcurl -lcjson
+TERM environment variable not set.
+Low Temperature Warning! Current temperature below the threshold.
+City: London
+Temperature: 1.36 °C
+Description: clear sky
+Alert! Cold Outside: 1.36°C
